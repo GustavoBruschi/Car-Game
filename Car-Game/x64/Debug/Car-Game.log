@@ -1,0 +1,29 @@
+﻿  Car-Game.cpp
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(19,24): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,34): warning C4305: 'inicializando': truncamento de 'int' para 'char'
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(19,24): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(19,31): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(19,31): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,6): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,6): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,13): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,13): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,20): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,20): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,27): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(20,27): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(21,10): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(21,10): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(21,17): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(21,17): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,6): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,6): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,13): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,13): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,20): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,20): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,27): warning C4838: a conversão de 'int' em 'char' requer uma conversão de restrição
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(22,27): warning C4309: 'inicializando': truncamento de valor constante
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(55,24): warning C4805: '==': mistura não segura de tipo 'int' e tipo 'bool' em operação
+C:\Users\gubru\Documents\Projects\Car-Game\Car-Game\Car-Game.cpp(64,24): warning C4805: '==': mistura não segura de tipo 'int' e tipo 'bool' em operação
+  Car-Game.vcxproj -> C:\Users\gubru\Documents\Projects\Car-Game\x64\Debug\Car-Game.exe
